@@ -1,11 +1,5 @@
 # Linux program installer
- Install and manage linux applications
-
- Here's a draft of the **README** file for your application:  
-
----
-
-## **Linux Installer Manager**  
+--- 
 A PyQt5-based GUI application for installing and managing `.appimage` and other Linux executables.  
 
 ### **Features**  
